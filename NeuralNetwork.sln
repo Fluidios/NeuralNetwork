@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Task2", "NeuralNetwork-Task2\Task2.pyproj", "{9FE6F3D3-DF39-4485-A9D9-B017430712EC}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Task1", "NeuralNetwork-Task1\Task1.pyproj", "{F1E69E7F-A052-4558-A569-7A78AA2E09BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FE6F3D3-DF39-4485-A9D9-B017430712EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE6F3D3-DF39-4485-A9D9-B017430712EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E69E7F-A052-4558-A569-7A78AA2E09BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E69E7F-A052-4558-A569-7A78AA2E09BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19227D81-21A5-41CF-AB06-D0978175732E}
+	EndGlobalSection
+EndGlobal
