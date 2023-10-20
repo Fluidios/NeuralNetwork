@@ -1,2 +1,2 @@
-model_checkpoint_path: "C:\\Users\\Ilia\\source\\repos\\NeuralNetwork-Task2\\NeuralNetwork-Task2\\saved_nn.tflearn"
-all_model_checkpoint_paths: "C:\\Users\\Ilia\\source\\repos\\NeuralNetwork-Task2\\NeuralNetwork-Task2\\saved_nn.tflearn"
+model_checkpoint_path: "C:\\Users\\Ilia\\source\\repos\\NeuralNetwork\\NeuralNetwork-Task2\\saved_nn.tflearn"
+all_model_checkpoint_paths: "C:\\Users\\Ilia\\source\\repos\\NeuralNetwork\\NeuralNetwork-Task2\\saved_nn.tflearn"
