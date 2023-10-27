@@ -9,6 +9,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Task1", "NeuralNetwork-Task
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Task3", "Task3\Task3.pyproj", "{56823DC0-4593-46AA-8184-23B5BFD4A942}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Task4", "Task4\Task4.pyproj", "{BEFEE983-39F1-40C8-90B6-E003035D9C6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,8 @@ Global
 		{F1E69E7F-A052-4558-A569-7A78AA2E09BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56823DC0-4593-46AA-8184-23B5BFD4A942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{56823DC0-4593-46AA-8184-23B5BFD4A942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEFEE983-39F1-40C8-90B6-E003035D9C6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEFEE983-39F1-40C8-90B6-E003035D9C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

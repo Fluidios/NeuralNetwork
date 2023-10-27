@@ -21,7 +21,7 @@ from nltk.tokenize import TweetTokenizer
 
 # print("Num CPUs Available: ", len(tf.config.list_physical_devices('CPU')))
 #endregion
-
+ 
 #region Constants
 POSITIVE_TWEETS_CSV = 'positive.csv'
 NEGATIVE_TWEETS_CSV = 'negative.csv'
@@ -45,7 +45,7 @@ print('Reading takes: {0}'.format(time.time()-timer))
 
 #region Stemmer
 stemer = RussianStemmer()
-regex = re.compile('[^а-яА-Я ]')
+regex = re.compile('[^Р°-СЏРђ-РЇ ]')
 stem_cache = {}
 
 def get_stem(token):
@@ -141,7 +141,7 @@ def test_tweet(tweet):
 
 
 tweets_for_testing = [
-    "меня оштрафовали по дороге домой"
+    "РјРµРЅСЏ РѕС€С‚СЂР°С„РѕРІР°Р»Рё РїРѕ РґРѕСЂРѕРіРµ РґРѕРјРѕР№"
 ]
 for tweet in tweets_for_testing:
     test_tweet(tweet) 
